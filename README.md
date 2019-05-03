@@ -1,5 +1,5 @@
 ****************
-INSTALLATION INSTRUCTIONS ADDED BY ME (ADEEL MALIK)
+# INSTALLATION INSTRUCTIONS ADDED BY ME (ADEEL MALIK)
 
 - Install Anaconda, and then run the following commands in Anaconda Prompt
 
