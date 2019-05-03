@@ -3,20 +3,20 @@
 
 - Install Anaconda, and then run the following commands in Anaconda Prompt
 
-1) $ pip install jupyter
-2) $ pip install numpy
-3) $ pip install Pillow
-4) $ conda install opencv (will be deprecated soon)
+1) $ ```pip install jupyter
+2) $ ```pip install numpy
+3) $ ```pip install Pillow
+4) $ ```conda install opencv (will be deprecated soon)
 
-5) Uninstall all instances of Nvidia from Program Files and reinstall CUDA, and even NVIDIA Graphics Driver
-6) Install CUDNn libraries. Easy to install, see youtube
-7) Now install tensorflow-gpu by following command
+5) ```Uninstall all instances of Nvidia from Program Files and reinstall CUDA, and even NVIDIA Graphics Driver
+6) ```Install CUDNn libraries. Easy to install, see youtube
+7) ```Now install tensorflow-gpu by following command
 
-$ pip install tensorflow-gpu as tfgpu
+$ ```pip install tensorflow-gpu as tfgpu
 
 8) To run tensorflow, simply run following command
 
-$ activate tfgpu
+$ ```activate tfgpu
 
 *********************************************************************
 
